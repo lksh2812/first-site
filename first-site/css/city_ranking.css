@@ -1,0 +1,28 @@
+#wrap {
+	font-family: sans-serif;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 30px;
+	letter-spacing: 1px;
+}
+
+body {
+	background: #9999;
+}
+
+.list {
+	font: sans-serif;
+}
+
+.list1 {
+	font-size: 17px;
+}
+
+.para {
+	font-size: 15px;
+	margin-left: 2px
+}
+
+.images {
+	padding: 20px;
+}
